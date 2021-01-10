@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:fromXDelta="-100%p"
+    android:toXDelta="0%p"
+    android:duration="1000">
+
+<!--    fromXDelta
+        -> position from where to start animation on x-axis
+        -> 0 means 0 pixel, 0% means from beginning, 0%p means 0 pixel of the parent
+
+        toXDelta
+        -> destination point
+
+        duration-> in ms
+
+ -->
+
+</translate>
